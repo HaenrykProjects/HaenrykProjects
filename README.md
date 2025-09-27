@@ -18,7 +18,7 @@
 ## 🛠️ Tech Stack
 - **Languages:** C++, Blueprint, SQL, HTML/CSS
 - **Game Dev:** Unreal Engine 5, DayZ Modding  
-- **Tools:** Git, VS Code, Photoshop  
+- **Tools:** Git, VS Code, Blender, Photoshop, Gimp
 
 ---
 
