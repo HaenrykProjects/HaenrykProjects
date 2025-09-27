@@ -10,7 +10,7 @@
 - **Hungerland (DayZ Server Modding)**  
   Custom items, bosses, skillsystem & loot mechanics  
 
-- **Pirates Game (UE5)** *(Work in Progress)*  
+- **Jungle Marauders Pirates Game (UE5)** *(Work in Progress)*  
   A gritty, stylized FPS about modern pirates with recruitable monkeys 🐒⚓  
 
 ---
