@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I’m HaenrykProjects
 
-<!--
-**HaenrykProjects/HaenrykProjects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Developer & Game Enthusiast  
+🎮 Currently working on **DayZ Hungerland Server** & an **Indie Game in UE5**  
+📚 Learning **C++**, **Git**, and improving my Unreal Engine skills  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Hungerland (DayZ Server Modding)**  
+  Custom items, bosses, skillsystem & loot mechanics  
+
+- **Pirates Game (UE5)** *(Work in Progress)*  
+  A gritty, stylized FPS about modern pirates with recruitable monkeys 🐒⚓  
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, Blueprint, SQL, HTML/CSS  
+- **Game Dev:** Unreal Engine 5, DayZ Modding  
+- **Tools:** Git, VS Code, Photoshop  
+
+---
+
+## 🌍 Connect
+- 📫 Reach me: *[deine GitHub noreply-Email oder Outlook-Mail, wenn du magst]*  
+- 🌐 More soon on my portfolio!  
+
+---
+
+✨ Fun fact: I love mixing hardcore survival mechanics with creative & funny game design ideas!
