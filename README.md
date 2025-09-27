@@ -1,4 +1,4 @@
-# 👋 Hi, I’m HaenrykProjects
+# 👋 Hi, I’m Hendrik or mostly known as Haenryk
 
 💻 Junior Developer & Game Enthusiast  
 🎮 Currently working on **DayZ Hungerland Server** & an **Indie Game in UE5**  
