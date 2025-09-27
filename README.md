@@ -16,14 +16,14 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C++, Blueprint, SQL, HTML/CSS  
+- **Languages:** C++, Blueprint, SQL, HTML/CSS
 - **Game Dev:** Unreal Engine 5, DayZ Modding  
 - **Tools:** Git, VS Code, Photoshop  
 
 ---
 
 ## 🌍 Connect
-- 📫 Reach me: *[deine GitHub noreply-Email oder Outlook-Mail, wenn du magst]*  
+- 📫 Reach me: Hendrik.Tijdink@outlook.de 
 - 🌐 More soon on my portfolio!  
 
 ---
